@@ -487,7 +487,7 @@ input[type='checkbox'] {
 .navbar .fa-stack {
 	width: 2em;
 	margin-right: 0.25rem;
-	font-size: 0.75rem;
+	font-size: 1.25rem;
 }
 
 .navbar .fa-stack-2x {
@@ -521,7 +521,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('/images/aaron-cass-GJuhDRbMj7g-unsplash.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -620,7 +620,7 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('/images/IMG_20230912_164410\ \(1\).jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1049,7 +1049,7 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.5rem;
 		padding-top: 0.5rem;
-		background-color: #24262a;
+		background-color: #101111;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 
