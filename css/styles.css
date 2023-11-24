@@ -521,7 +521,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('http://127.0.0.1:5500/images/aaron-cass-GJuhDRbMj7g-unsplash.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://cdn.discordapp.com/attachments/1177411632612253728/1177411988624769054/aaron-cass-GJuhDRbMj7g-unsplash.jpg?ex=6572695d&is=655ff45d&hm=f60f625f3d867b0042224f441222fb8a1e424c1979a19b4e2c93182730caf2e1&') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -620,7 +620,7 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('http://127.0.0.1:5500/images/IMG_20230518_101031.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('https://cdn.discordapp.com/attachments/1177411632612253728/1177413350771142736/IMG_20230518_101031.jpg?ex=65726aa2&is=655ff5a2&hm=ce59ebb83dabcd34533d32fb51b454da40853af27aea510e8eb33b38dcedcf7c&') center center no-repeat;
 	background-size: cover;
 }
 
